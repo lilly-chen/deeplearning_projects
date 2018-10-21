@@ -1,4 +1,5 @@
 Udacity
+
 Started the Deep Learning Nano-Degree on Nov 2017.
 Finished the program in May 2018
 Projects List
