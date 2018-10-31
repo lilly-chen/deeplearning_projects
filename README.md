@@ -7,6 +7,8 @@ Projects List
 
 P1: Neural Networks: Your first neural network
 
+P1*: Sentiment Analysis Using Neural Networks
+
 P2: Convolutional Neural Networks: Dog Breed Classifier
 
 P3: Recurrent Neural Networks: Generate TV Scripts
